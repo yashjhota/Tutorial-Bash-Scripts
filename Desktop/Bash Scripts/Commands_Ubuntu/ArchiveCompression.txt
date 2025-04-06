@@ -1,0 +1,15 @@
+Acrhive - combine files into one file
+Compression - reduce the size of file
+tar -cf file name
+c - create f - output name
+tar -tf <folder name> - to list all files in archive
+tar -xf <"> to unpack
+
+lossless- find pattern
+lossy - remove information
+
+tar - czf (z gzip) files.tgz
+
+zip myfiles.zip * (all)
+
+

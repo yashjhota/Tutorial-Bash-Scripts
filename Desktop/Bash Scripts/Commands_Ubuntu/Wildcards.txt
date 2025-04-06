@@ -1,0 +1,33 @@
+Wildcards in Linux
+-------------------
+
+* - "Any Characters"
+? - "Any single Characters"
+[characters] - "Any Character that is a member of the set Characters"
+[!characters] - "Any character that is not a member of the set characters"
+[[:class:]] - "Any characters that is a member of the specified class"
+
+[] bracket – is used to match any occurrences of characters defined inside the brackets. 
+
+Commonly use character classes
+------------------------------
+
+[:alnum:] Any alphanumeric character
+[:alpha:] Any alphabetic character
+[:digit:] Any numeral
+*[[:lower:]] Any lowercase
+[[:upper:]]* Any uppercase
+
+----------------------------------
+examples 
+
+ls * - list all files
+ls D* - any file beginning with D
+ls[ADT]* - Any file beginning wth D,A,that
+ls d??o - If you missed middle charcters
+ls [[:upper:]]* - Any file beginning with uppercase
+ls *[[:lower:]] - Any file ending with lowercase
+ls *[[:lower:]123] - Any file ending with lowercase or 123
+
+
+

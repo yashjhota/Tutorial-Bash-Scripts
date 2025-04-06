@@ -1,0 +1,8 @@
+. Any character
+* one or more specified character
+[] range of char
+{} no of char
+^ Beginning of line
+$ Endo of line
+\n Newline
+

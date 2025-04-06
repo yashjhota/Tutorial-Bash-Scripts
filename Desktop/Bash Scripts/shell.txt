@@ -1,0 +1,18 @@
+A shell is an interactive user interface for running commands, a scripting language, and an interactive language.
+Shell commands are used for navigating and working with files and directories.
+Shell commands can be used for file compression.
+
+
+The curl and wget commands, respectively, can be used to display and download files from URLs.
+The echo command prints string or variable values.
+The cat and tail commands are used to display file contents. 
+
+
+Get user information with the "whoami" and "id" commands,
+Get operating system information using the “uname” command,
+Check system disk usage using the "df" command,
+Monitor processes and resource usage with “ps" and "top",
+Print string or variable value using "echo",
+Print and extract information about the date with the “date" command,
+And read the manual for any command using “man”. 
+

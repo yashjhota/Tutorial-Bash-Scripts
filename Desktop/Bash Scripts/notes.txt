@@ -1,0 +1,6 @@
+Bash is a Unix shell and command language. 
+
+#!/bin/bash
+
+The #!/bin/bash at the top of the script is known as a shebang. It tells the system that this script should be run using the Bash shell. The path /bin/bash is the location of the Bash executable.
+

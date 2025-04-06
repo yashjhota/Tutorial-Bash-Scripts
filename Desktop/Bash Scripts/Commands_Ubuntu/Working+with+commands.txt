@@ -1,0 +1,8 @@
+Working with commands:-
+
+type - used to display what type of command is
+which - display which executable program will be executed
+man - display a command's manual page
+apropos - display a list of appropriate commands
+whatis - display brief description about command
+alias - create an alias for command.
