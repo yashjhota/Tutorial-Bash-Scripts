@@ -1,0 +1,15 @@
+Links in Kali Linux:-
+----------------------
+A link in linux is a pointer to a file. Like pointers in any programming languages, 
+links in linux are pointers pointing to a file or a directory. 
+
+There are two types of links :
+
+    Hard Links
+    Soft Link or Symbolic links
+
+    For example, if we have a file a.txt. If we create a hard link to the file and then delete the file, 
+    we can still access the file using hard link. But if we create a soft link of the file and then delete the file, we can’t access the file through soft link 
+
+    Hard Links -  ln  [original filename] [link name] 
+    Symbolic Links - ln  -s [original filename] [link name]

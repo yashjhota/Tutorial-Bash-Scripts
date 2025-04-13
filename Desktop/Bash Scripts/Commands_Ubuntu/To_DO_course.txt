@@ -1,0 +1,4 @@
+sed training stream ediotr
+awk training
+regex course
+linux:package manager and reposutries

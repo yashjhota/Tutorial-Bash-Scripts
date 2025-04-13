@@ -1,0 +1,114 @@
+Course Title: Learning Linux Command Line
+
+Description: Suggested prerequisites  Familiarity with computer basics: files, directories, and running programs An understanding of macOS or Windows Ubuntu Desktop running in a VirtualBox virtual machine  Projects  Use the command line to find specific information. Evaluate presented commands and repair broken syntax. Create and share a file. Extract information from a text file.  Knowledge of the Linux command line is critical for anyone who uses this open-source operating system. For many tasks, it's more efficient and flexible than a graphical environment. For administrators, it plays a vital role in configuring permissions and working with files. In this course, experienced instructor Scott Simpson discusses the basics of setting up your environment and working with the Linux command line using the Bash shell. This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the “Using GitHub Codespaces with this course” video to learn how to get started.
+
+
+***********************************************
+Chapter: 2. Command-Line Basics
+***********************************************
+
+
+-----------------------------------------------
+Video: What is the command line?
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:03:51            CLI - is any place we can enter text commands
+Shell - piece of software that interprets typed command and runs them
+Terminal - software that a shell program runs inside of 
+
+0:03:51            CLI - To interact with programs using text commands 
+
+
+***********************************************
+Chapter: 3. Files, Directories, and Permissions
+***********************************************
+
+
+-----------------------------------------------
+Video: The Linux file system
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:42            file - determine the file type 
+
+0:01:37            stat - provide more infotmation about file 
+
+
+-----------------------------------------------
+Video: Create and remove directories
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:02            CREATE N REMOVE DIRECTORIES    
+
+
+-----------------------------------------------
+Video: Modify file permissions
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:06            Learning Bash Scripting Course 
+
+
+***********************************************
+Chapter: 4. Common Command-Line Tasks and Tools
+***********************************************
+
+
+-----------------------------------------------
+Video: Manipulate text with awk, sed, and sort
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:00            LEarning Regular Expression Course 
+
+
+-----------------------------------------------
+Video: Edit text with Vim
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:11            LEarning vi or vim course      
+
+
+-----------------------------------------------
+Video: Edit text with nano
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:02:36            LEarning Nano                  
+
+
+-----------------------------------------------
+Video: Exploring environment variables and PATH
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:03:53            Linux bash scripting and linux bash shell and scripts 
+
+
+***********************************************
+Chapter: Conclusion
+***********************************************
+
+
+-----------------------------------------------
+Video: Next steps
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:20            If you want to explore more about different Linux distributions, check out our courses on Ubuntu desktop, Fedora, SUSE, and Red Hat. 
+
+If you'd like to learn more about the Bash Shell, take a look at Learning Bash Scripting. 
+
+If you want to learn more about becoming a Linux system administrator, be sure to look for our learning paths and courses focusing on both Ubuntu and Red Hat administration. 
+
+You can explore multitasking at the command line or configuring networking, web services, file sharing, and more. 
+
+And if you want to explore tips about different aspects of Linux, be sure to check out my series of videos here on LinkedIn Learning called Linux Tips. 
+
+Keep exploring the command line using apropos and man to find new commands and give yourself some tasks to accomplish. 
+
+0:01:20            courses on Ubuntu desktop, Fedora, SUSE, and Red Hat. 
+

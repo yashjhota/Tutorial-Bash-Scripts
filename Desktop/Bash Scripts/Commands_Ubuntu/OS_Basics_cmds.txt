@@ -1,0 +1,24 @@
+sudo shutdown -h +5 
+# shutdown after 5 minutes
+
+sudo shutdown -c
+# to cancel
+
+uname -r 
+# currently active Kernel
+
+sudo apt update
+# To update all 
+
+sudo apt list --upgradable 
+# TO check whic is to update
+
+apt search/list/show package name
+# TO check info
+
+sudo apt install build-essential
+wget <namE>
+# To install from source code
+
+Free # Show memory info
+df # show disk usage info
