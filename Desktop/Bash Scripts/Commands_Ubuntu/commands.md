@@ -58,7 +58,7 @@
 
 `ls`
 
-`ls -R departments/`
+`ls -R departments/`   show in depth files in folders as well
 
 `cd departments/hr/policies`
 
@@ -251,7 +251,7 @@
 `echo "Hello" | wc`
 
 `echo "Hello world from the command line" | wc`
-
+------------------------------------------------------------------------------------------------------------------
 ## 04_03 - View text files with cat, head, tail, and less
 
 `cat poems.txt`

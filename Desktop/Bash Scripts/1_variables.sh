@@ -16,3 +16,5 @@ echo "Your name is " $names
 read -p " enter uour age :" age
 
 read -sp "passowrd:" password
+
+echo $password
